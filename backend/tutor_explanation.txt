@@ -1,0 +1,5 @@
+Long Short-Term Memory Recurrent Neural Networks (LSTM-RNN) are one of the most powerful dynamic classiﬁers publicly known. Understanding LSTM is a tutorial on how to use the network to make sense of data.
+
+This paper will shed more light into understanding how LSTM-RNNs evolved and why they work impressively. The work itself and the related learning algorithms are reasonably well docu-mented to get an idea how it works. We signiﬁcantlyimproved documentation and ﬁxed a number of errors and inconsistencies.
+
+This article is an tutorial-like introduction to Long Short-Term Memory Re-current Neural Networks. The interested reader can deepen his/her knowledge by understanding LSTM-RNN's evolution since the early 1990s. Todays publications use a slightly diﬀerent notation and a more summarized representation of the derivations.
